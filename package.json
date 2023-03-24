@@ -1,0 +1,15 @@
+{
+  "name": "projecteulersolutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "0001.js",
+  "scripts": {
+    "start": "nodemon 0003.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
